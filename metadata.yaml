@@ -1,0 +1,55 @@
+_repo: The-Birds-Christmas-Carol_24286
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24286-h/images/fccover.jpg
+creator:
+  author:
+    agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Riggs, Kate Douglas Smith Wiggin
+    - Riggs, George Christopher, Mrs.
+    - Smith, Kate Douglas
+    - Wiggin, Samuel Bradley, Mrs.
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+description: "The Birds' Christmas Carol is a novel by Kate Douglas Wiggin printed\
+  \ privately in 1886 and published in 1888 with illustrations by Katharine R. Wireman.\
+  \ Wiggin published the book to help fund the Silver Street Free Kindergarten, which\
+  \ she founded in 1878.\nThe story is about Carol Bird, a Christmas-born child, a\
+  \ young girl who is unusually loving and generous, having a positive effect on everyone\
+  \ with whom she comes into contact. She is the youngest member of her family and\
+  \ has several devoted older brothers. At about the age of 5, Carol contracts an\
+  \ unspecified illness (possibly tuberculosis), and, by the time she is 10, she is\
+  \ bedridden; physicians say that she does not have long to live. Most of the brief\
+  \ novel's plot involves Carol making plans for a Christmas celebration for the nine\
+  \ Ruggles children, a poor, working-class family living near the Birds.\nWiggin's\
+  \ story is primarily a moral tale about a saintly child, but unlike many other such\
+  \ stories of the period, Carol is refreshingly intelligent and cheerful instead\
+  \ of pious. The story is also enlivened by many humorous touches, particularly in\
+  \ the scenes of the Ruggles family's home life.\nIn 1917, the story was adapted\
+  \ as the silent movie \"A Bit o' Heaven\" starring Mary Louise as Carol, Donald\
+  \ Watson and Ella Gilbert as Mr. and Mrs. Bird and Mary Talbot as Mrs. Ruggles.\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2008-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24286'
+  wikidata: Q7718084
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Terminally ill children -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Christmas stories'
+title: The Birds' Christmas Carol
+url: http://www.gutenberg.org/ebooks/24286
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Birds%27_Christmas_Carol
